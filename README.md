@@ -1,2 +1,2 @@
 # Basics_of_Python
-basics of python will be here
+Here i have tried to solve the Python Basic Exercises,Practice questions from w3resource.com.
